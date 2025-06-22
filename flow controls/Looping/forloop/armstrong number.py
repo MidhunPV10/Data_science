@@ -22,8 +22,7 @@ for i in range(low,upp+1):
 
     if(sum==i):
           print(i)
-else:
-    print("no armstrong numbers")
+
 
 
 
