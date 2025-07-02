@@ -1,0 +1,7 @@
+f=open('write_data','w')
+f.write('hi\n')
+f.write('all\n')
+f.write('welcome\n')
+f.write('to\n')
+f.write('luminar \n')
+f.write('technolab\n')
